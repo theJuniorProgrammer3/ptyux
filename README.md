@@ -1,3 +1,5 @@
+# Intro and note
+## Intro dan catatan
 Halo! saya programmer cilik.                                                            saya membuat ptyux, petya termux / petya linux                                          Jangan khawatir, ini aman, hanya virus joke.
 Kamu bisa menghentikan ini dengam Ctrl+C atau Ctrl+Z.
 Tapi, jika tidak bisa (walaupun kemungkinan besar bisa), anda bisa memasukkan kuncinya. Kuncinya dengan menjawab teka teki ini:
@@ -22,3 +24,16 @@ like: "Repairing file system on C:" becomes "Repairing file system on /".
 I'm a little programmer, there are still lots of bugs.
 
 NOTE: FOR THOSE WHO FIND BUG, I AM NOT WILLING TO GIVE REWARDS.
+
+# Made of:
+## Dibuat dari:
+Termux
+
+# Tried on:
+## Telah dicoba di:
+- Termux
+
+# Maybe it can be run on:
+## Mungkin bisa dijalankan di:
+- Linux
+
