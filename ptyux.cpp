@@ -111,6 +111,7 @@ void purchase() {
 		getstr(input);
 	}
 	printw("Correct key! Now you can exit.");
+	refresh();
 	napms(2000);
 	endwin();
 
